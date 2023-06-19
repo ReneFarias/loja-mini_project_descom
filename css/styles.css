@@ -10935,7 +10935,7 @@ hr.divider-light {
 header.masthead-1 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(100, 100, 100, 0.8) 100%), url("https://raw.githubusercontent.com/ReneFarias/loja-mini_project_descom/main/assets/171530413-conjunto-de-iconos-de-bicicleta-diseño-de-contorno-audaz-con-ancho-de-trazo-editable-ilustración.webp");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(100, 100, 100, 0.8) 100%), url("/assets/171530413-conjunto-de-iconos-de-bicicleta-diseño-de-contorno-audaz-con-ancho-de-trazo-editable-ilustración.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10967,7 +10967,7 @@ header.masthead-1 h1, header.masthead-1 .h1 {
 header.masthead-2 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(100, 100, 100, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://raw.githubusercontent.com/ReneFarias/loja-mini_project_descom/main/assets/Tuulilasit-Salon-SALO-0002.jpg");
+  background: linear-gradient(to bottom, rgba(100, 100, 100, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("/assets/Tuulilasit-Salon-SALO-0002.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10999,7 +10999,7 @@ header.masthead-2 h1, header.masthead-2 .h1 {
 header.masthead-3 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(100, 100, 100, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://raw.githubusercontent.com/ReneFarias/loja-mini_project_descom/main/assets/159882638-conjunto-de-iconos-de-motos-estilo-de-contorno.webp");
+  background: linear-gradient(to bottom, rgba(100, 100, 100, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("/assets/159882638-conjunto-de-iconos-de-motos-estilo-de-contorno.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11038,7 +11038,7 @@ header.masthead-3 h1, header.masthead-3 .h1 {
 header.masthead-4 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(100, 100, 100, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://raw.githubusercontent.com/ReneFarias/loja-mini_project_descom/main/assets/11277.png");
+  background: linear-gradient(to bottom, rgba(100, 100, 100, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("/assets/11277.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11077,7 +11077,7 @@ header.masthead-4 h1, header.masthead-4 .h1 {
 header.masthead-5 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(100, 100, 100, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://raw.githubusercontent.com/ReneFarias/loja-mini_project_descom/main/assets/9ee03546a82917185dd0588e99873519.jpg");
+  background: linear-gradient(to bottom, rgba(100, 100, 100, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("/assets/9ee03546a82917185dd0588e99873519.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11116,7 +11116,7 @@ header.masthead-5 h1, header.masthead-5 .h1 {
 header.masthead-6 {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(100, 100, 100, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("https://raw.githubusercontent.com/ReneFarias/loja-mini_project_descom/main/assets/Tuulilasit-Salon-SALO-0002.jpg");
+  background: linear-gradient(to bottom, rgba(100, 100, 100, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("/assets/Tuulilasit-Salon-SALO-0002.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11197,9 +11197,9 @@ header.masthead-6 h1, header.masthead-6 .h1 {
   padding: 2em 0.8em 0.8em;
 }
 
-.card-group .card:hover{
+/*.card-group .card:hover{
   opacity: 65%;
-}
+}*/
 @media (max-width: 1200px) {
   .card-group .card{
     font-size: 2em;
@@ -11326,7 +11326,7 @@ header.masthead-6 h1, header.masthead-6 .h1 {
   }
 }
 
-.card-group .card h1{
+/*.card-group .card h1{
   text-decoration: line-through;
 }
 .card-group .card #btn-1{
@@ -11334,7 +11334,7 @@ header.masthead-6 h1, header.masthead-6 .h1 {
 }
 .card-group .card .card-footer{
   text-decoration: line-through;
-}
+}*/
 
 /* notification */
 
